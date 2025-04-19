@@ -26,3 +26,43 @@ use udaanuos25;
 -- Write necessary code to extract the years from the column ReturnDate. Store the output in YearsData.
 SELECT *, extract(year from ReturnDate) AS Year_Data
 FROM PURCHASES; 
+
+SELECT * FROM courses_data;
+select * from enrollments_data; 
+select * from student_information;
+
+-- 39 Order by 
+select * from student_information order by FirstName asc;
+select * from student_information;
+
+-- 40 group by
+select count(Grade) Grade from enrollments_data group by Grade;
+
+-- 41 Inner join
+alter table student_information rename column `Student ID` to Student_ID; 
+alter table enrollments_data rename column `Student ID` to Student_ID; 
+-- select * from student_information inner join Student ID on enrollments_data = Student ID;
+select * from student_information s inner join enrollments_data e on s.Student_ID = e.Student_ID;
+
+-- 42 Left join
+select * from student_information s left join enrollments_data e on s.Student_ID = e.Student_ID;
+
+-- 43 right join
+select * from student_information s right join enrollments_data e on s.Student_ID = e.Student_ID;
+
+-- 44 cross join
+select * from student_information s cross join enrollments_data e on s.Student_ID = e.Student_ID;
+
+-- 45 having 
+select * from student_information; 
+select count(GPA) GPA from student_information group by GPA having avg(GPA)>3; 
+
+-- 46 exists
+select Student_ID  from student_information
+where exists(select Student_ID from enrollments_data where Student_ID = 6);
+
+-- 47 Any 
+select Student_ID  from student_information
+where Student_ID = any(select Student_ID from enrollments_data where Student_ID = 6);
+
+
