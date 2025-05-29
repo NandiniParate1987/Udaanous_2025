@@ -1,0 +1,11 @@
+OrderID,OrderDate,Region,Salesperson,ProductName,Sales
+1001,2023-01-01,East,Alice,Laptop,1200
+1002,2023-01-16,West,Bob,Tablet,800
+1003,2023-01-31,North,Charlie,Monitor,450
+1004,2023-02-15,South,David,Printer,700
+1005,2023-03-02,East,Eve,Laptop,1300
+1006,2023-03-17,West,Frank,Monitor,470
+1007,2023-04-01,North,Grace,Tablet,820
+1008,2023-04-16,South,Heidi,Printer,750
+1009,2023-05-01,East,Ivan,Laptop,1100
+1010,2023-05-16,West,Judy,Monitor,490
