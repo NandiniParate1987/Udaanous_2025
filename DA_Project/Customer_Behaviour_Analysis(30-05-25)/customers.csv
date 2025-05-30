@@ -1,0 +1,11 @@
+CustomerID,Gender,Age,AnnualIncome,SpendingScore,PurchaseCategory
+101,Male,23,40000,60,Clothing
+102,Female,31,50000,70,Electronics
+103,Female,35,62000,90,Groceries
+104,Male,22,35000,50,Clothing
+105,Female,45,80000,80,Electronics
+106,Male,52,90000,30,Groceries
+107,Female,27,48000,72,Clothing
+108,Male,41,75000,65,Electronics
+109,Female,33,60000,77,Groceries
+110,Male,29,52000,68,Clothing
