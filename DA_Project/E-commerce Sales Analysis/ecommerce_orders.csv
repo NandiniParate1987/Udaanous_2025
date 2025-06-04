@@ -1,0 +1,101 @@
+OrderID,CustomerID,OrderDate,Category,OrderValue,DiscountApplied,PaymentMethod,Revenue
+1001,7,2024-01-01,Home & Kitchen,156.59,5,Net Banking,148.76
+1002,20,2024-01-02,Books,105.24,10,PayPal,94.72
+1003,15,2024-01-03,Books,107.73,5,Credit Card,102.34
+1004,11,2024-01-04,Clothing,97.77,0,Net Banking,97.77
+1005,8,2024-01-05,Home & Kitchen,42.44,20,PayPal,33.95
+1006,7,2024-01-06,Home & Kitchen,99.2,15,Net Banking,84.32
+1007,19,2024-01-07,Electronics,101.81,5,Credit Card,96.72
+1008,11,2024-01-08,Home & Kitchen,173.9,0,Credit Card,173.9
+1009,11,2024-01-09,Electronics,94.23,15,Credit Card,80.1
+1010,4,2024-01-10,Home & Kitchen,109.05,20,Net Banking,87.24
+1011,8,2024-01-11,Clothing,98.96,15,Net Banking,84.12
+1012,3,2024-01-12,Home & Kitchen,64.94,0,Credit Card,64.94
+1013,2,2024-01-13,Electronics,134.28,15,Net Banking,114.14
+1014,12,2024-01-14,Electronics,122.56,10,Credit Card,110.3
+1015,6,2024-01-15,Clothing,123.73,15,Credit Card,105.17
+1016,2,2024-01-16,Home & Kitchen,72.72,5,PayPal,69.08
+1017,1,2024-01-17,Home & Kitchen,142.08,5,Net Banking,134.98
+1018,12,2024-01-18,Clothing,57.94,10,Credit Card,52.15
+1019,12,2024-01-19,Home & Kitchen,117.61,0,Credit Card,117.61
+1020,17,2024-01-20,Home & Kitchen,165.71,5,Net Banking,157.42
+1021,10,2024-01-21,Electronics,70.28,20,PayPal,56.22
+1022,16,2024-01-22,Home & Kitchen,83.01,5,PayPal,78.86
+1023,15,2024-01-23,Home & Kitchen,102.99,5,Credit Card,97.84
+1024,15,2024-01-24,Clothing,84.9,0,Net Banking,84.9
+1025,19,2024-01-25,Clothing,53.48,15,PayPal,45.46
+1026,12,2024-01-26,Books,102.06,5,Net Banking,96.96
+1027,20,2024-01-27,Electronics,68.13,10,Net Banking,61.32
+1028,3,2024-01-28,Home & Kitchen,114.21,15,Credit Card,97.08
+1029,5,2024-01-29,Home & Kitchen,72.42,20,PayPal,57.94
+1030,19,2024-01-30,Books,146.5,0,Credit Card,146.5
+1031,7,2024-01-31,Home & Kitchen,76.5,20,PayPal,61.2
+1032,9,2024-02-01,Electronics,90.34,15,PayPal,76.79
+1033,7,2024-02-02,Books,124.41,15,PayPal,105.75
+1034,18,2024-02-03,Electronics,63.07,15,PayPal,53.61
+1035,4,2024-02-04,Books,106.82,20,PayPal,85.46
+1036,14,2024-02-05,Books,139.21,15,Net Banking,118.33
+1037,18,2024-02-06,Clothing,51.78,20,Credit Card,41.42
+1038,9,2024-02-07,Electronics,105.54,15,Net Banking,89.71
+1039,2,2024-02-08,Home & Kitchen,107.8,10,PayPal,97.02
+1040,20,2024-02-09,Home & Kitchen,123.45,15,Credit Card,104.93
+1041,15,2024-02-10,Electronics,62.89,20,PayPal,50.31
+1042,7,2024-02-11,Home & Kitchen,60.39,5,Credit Card,57.37
+1043,12,2024-02-12,Home & Kitchen,115.66,15,Net Banking,98.31
+1044,8,2024-02-13,Electronics,108.91,5,Credit Card,103.46
+1045,15,2024-02-14,Books,107.51,10,Credit Card,96.76
+1046,3,2024-02-15,Electronics,110.39,0,Credit Card,110.39
+1047,14,2024-02-16,Books,79.6,10,Credit Card,71.64
+1048,17,2024-02-17,Home & Kitchen,106.97,15,Credit Card,90.92
+1049,4,2024-02-18,Home & Kitchen,108.79,5,PayPal,103.35
+1050,18,2024-02-19,Home & Kitchen,78.57,5,Credit Card,74.64
+1051,8,2024-02-20,Clothing,155.97,20,Credit Card,124.78
+1052,4,2024-02-21,Books,114.21,5,Net Banking,108.5
+1053,2,2024-02-22,Clothing,64.26,20,Credit Card,51.41
+1054,6,2024-02-23,Clothing,119.7,0,Net Banking,119.7
+1055,10,2024-02-24,Electronics,70.76,15,PayPal,60.15
+1056,4,2024-02-25,Clothing,123.61,20,Credit Card,98.89
+1057,18,2024-02-26,Electronics,134.76,0,Net Banking,134.76
+1058,12,2024-02-27,Electronics,75.38,5,Net Banking,71.61
+1059,2,2024-02-28,Clothing,128.9,5,PayPal,122.46
+1060,10,2024-02-29,Books,112.38,0,Credit Card,112.38
+1061,4,2024-03-01,Books,124.66,5,Credit Card,118.43
+1062,14,2024-03-02,Books,156.9,0,Net Banking,156.9
+1063,16,2024-03-03,Books,92.64,20,Credit Card,74.11
+1064,15,2024-03-04,Books,77.39,20,Net Banking,61.91
+1065,8,2024-03-05,Clothing,73.31,0,Credit Card,73.31
+1066,14,2024-03-06,Clothing,75.53,20,Net Banking,60.42
+1067,8,2024-03-07,Home & Kitchen,97.69,20,Credit Card,78.15
+1068,16,2024-03-08,Books,110.23,20,PayPal,88.18
+1069,13,2024-03-09,Clothing,108.3,10,Credit Card,97.47
+1070,18,2024-03-10,Home & Kitchen,124.82,15,Credit Card,106.1
+1071,15,2024-03-11,Books,100.39,5,PayPal,95.37
+1072,13,2024-03-12,Electronics,143.61,10,Credit Card,129.25
+1073,9,2024-03-13,Home & Kitchen,92.06,20,PayPal,73.65
+1074,15,2024-03-14,Clothing,181.61,0,Credit Card,181.61
+1075,13,2024-03-15,Electronics,118.77,20,Net Banking,95.02
+1076,1,2024-03-16,Electronics,74.29,15,Net Banking,63.15
+1077,7,2024-03-17,Electronics,67.87,20,Credit Card,54.3
+1078,9,2024-03-18,Home & Kitchen,114.47,0,Credit Card,114.47
+1079,1,2024-03-19,Clothing,93.3,15,Credit Card,79.3
+1080,12,2024-03-20,Electronics,121.42,20,Net Banking,97.14
+1081,8,2024-03-21,Books,114.2,15,Credit Card,97.07
+1082,11,2024-03-22,Electronics,97.82,5,Net Banking,92.93
+1083,19,2024-03-23,Electronics,74.6,5,PayPal,70.87
+1084,17,2024-03-24,Home & Kitchen,54.55,20,Net Banking,43.64
+1085,8,2024-03-25,Home & Kitchen,86.6,15,Net Banking,73.61
+1086,3,2024-03-26,Clothing,125.69,0,PayPal,125.69
+1087,3,2024-03-27,Books,106.42,20,Net Banking,85.14
+1088,1,2024-03-28,Home & Kitchen,62.63,5,Credit Card,59.5
+1089,5,2024-03-29,Electronics,105.2,5,Credit Card,99.94
+1090,10,2024-03-30,Clothing,111.56,20,Net Banking,89.25
+1091,7,2024-03-31,Electronics,73.48,15,Credit Card,62.46
+1092,9,2024-04-01,Electronics,104.61,5,Net Banking,99.38
+1093,7,2024-04-02,Home & Kitchen,101.75,15,Credit Card,86.49
+1094,9,2024-04-03,Clothing,65.71,5,Credit Card,62.42
+1095,8,2024-04-04,Books,110.73,5,Net Banking,105.19
+1096,12,2024-04-05,Books,116.82,10,Credit Card,105.14
+1097,2,2024-04-06,Home & Kitchen,132.49,5,Net Banking,125.87
+1098,1,2024-04-07,Home & Kitchen,131.61,0,Credit Card,131.61
+1099,16,2024-04-08,Clothing,58.67,20,Credit Card,46.94
+1100,5,2024-04-09,Books,71.87,20,PayPal,57.5
